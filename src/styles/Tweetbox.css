@@ -19,3 +19,21 @@
     font-size: 20px;
     border: none;
 }
+.tweetBox_tweetButton{
+    background-color: var(--twitter-color) !important;
+    border: none !important;
+    color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    border-radius: 30px !important;
+    width:80px;
+    height: 40px !important;
+    margin-top: 10px !important;
+    font-size: 16px !important;
+    margin-left: auto !important;
+    margin-right: 25px !important;
+}
+.tweetBox__imageUrl {
+    border: none;
+    padding: 10px;
+}

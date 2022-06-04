@@ -2,6 +2,7 @@ import React from 'react'
 import "../styles/Feed.css"
 import AutoAwesomeIcon from '@mui/icons-material/AutoAwesome';
 import Tweetbox from './Tweetbox';
+import Post from './Post';
 
 function Feed() {
  
@@ -16,6 +17,8 @@ function Feed() {
       </div>  
 
       <Tweetbox />
+
+      <Post />
     </div>
   )
 }
