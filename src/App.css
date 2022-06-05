@@ -3,6 +3,10 @@ body {
     --twitter-options-text: #14171A;
     --hover-background: #E0E0E2;
     --twitter-background: #e6ecf0;
+    --widgets-background : #F7F9F9
+}
+h2, h3, p {
+    margin: 0px
 }
 
 .app {
